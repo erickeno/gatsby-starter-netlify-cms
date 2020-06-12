@@ -44,7 +44,7 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/logo.svg
+    - image: /img/blog-index.jpg
       text: We believe that good coffee has the power to bring people together. That's
         why we decided to turn a corner of our shop into a cozy meeting space
         where you can hang out with fellow coffee lovers and learn about coffee
